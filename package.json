@@ -1,0 +1,22 @@
+{
+  "name": "bg-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thongcam/bg-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thongcam/bg-generator/issues"
+  },
+  "homepage": "https://github.com/thongcam/bg-generator#readme",
+  "dependencies": {
+    "angle-input": "6.4.1",
+  }
+}
